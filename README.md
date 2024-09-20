@@ -1,5 +1,6 @@
 This is to downgrade avr gcc in QMK MSYS.
-Sometimes results in a smaller hex file, and fixes compiling the production target.
+
+This sometimes results in a smaller hex file, but also fixes compiling the production target.
 
 command to downgrade:
 ```
